@@ -22,7 +22,7 @@ greenlet==0.4.15
 idna==2.8
 itchat==1.2.32
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jmespath==0.9.4
 json-spec==0.10.1
 json-tools==0.4.1
