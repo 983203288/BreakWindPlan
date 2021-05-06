@@ -14,7 +14,7 @@ docxtpl==0.6.3
 enum34==1.1.6
 execnet==1.6.0
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 future==0.17.1
 gitdb2==2.0.5
 GitPython==2.1.13
